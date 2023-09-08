@@ -4,7 +4,8 @@
 
 <h1>🙋‍♂️ Personal Info</h1>
   <ul>
-    <li>hanyu3677@naver.com</li>
+    <li>mail : hanyu3677@naver.com</li>
+    <li>blog : https://itit88.tistory.com/</li>
   </ul>
 
 <h1>🔨 Technology Stacks</h1>
