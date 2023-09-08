@@ -16,7 +16,7 @@
   </li>
 </ul>
 </ul>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseyeong&langs_count=8)](https://github.com/jiseyeong/github-readme-stats)
 
 
 
