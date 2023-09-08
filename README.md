@@ -1,3 +1,10 @@
+<h1>Welcome To My GitHub!</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=jiseyeong&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseyeong&layout=compact" "https://github.com/jiseyeong/github-readme-stats"/>
+
+
+
+
 <h1>🔨 Technology Stacks</h1>
 <ul>
   <li>
@@ -16,7 +23,7 @@
   </li>
 </ul>
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanyu3677@naver.com&langs_count=8)](https://github.com/hanyu3677@naver.com/github-readme-stats)
+
 
 
 
