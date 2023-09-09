@@ -33,6 +33,7 @@
 https://rune-olive-b43.notion.site/c83819b619a44b16bfa3171dea92bb97?pvs=4
 
 <h1>🖥 Project</h1>
-
+<li>KH PLATE : https://github.com/jiseyeong/KHSemi_KHPlate</li>
+<li>CODED : https://github.com/jiseyeong/KHFinal_CODED</li>
 
 
